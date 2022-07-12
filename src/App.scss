@@ -1,0 +1,13 @@
+main {
+  height: 100vh;
+  display: grid;
+  grid-template-columns: repeat(2, 50vw);
+}
+
+.text-area {
+  background-color: rgb(27, 74, 51);
+}
+
+.mark-area {
+  background-color: rgb(11, 198, 107);
+}
